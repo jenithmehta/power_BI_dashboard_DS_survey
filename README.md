@@ -1,4 +1,2 @@
 # power_BI_dashboard_DS_survey
-This power BI Dashboard is created on survey data. The survey consists of questions asked to people working in data industry.
-The survey captures views of people on various topic. Dashboards are created on some interesting metrics. 
-This repository consists of cleaned and uncleaned data, as well as Power BI file.
+This power BI Dashboard is created on survey data. The survey consists of questions asked of people working in the data industry. The survey captures the views of people on various topics. Dashboards are created on some exciting metrics. This repository consists of cleaned and uncleaned data and a Power BI file.
